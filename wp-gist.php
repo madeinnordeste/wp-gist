@@ -2,11 +2,11 @@
 
 /*
 Plugin Name: WP-Gist
-Plugin URI: http://URI_Of_Page_Describing_Plugin_and_Updates
+Plugin URI: https://github.com/madeinnordeste/wp-gist 
 Description: Easily embed and share Github gists on your WordPress blog. Original Post http://interconnectit.com/3920/embed-all-the-gists/
 Version: 1
 Author: Luiz Alberto
-Author URI: https://github.com/madeinnordeste/wp-gist
+Author URI: http://beto.euqueroserummacaco.com
 */
 
 /**
