@@ -2,7 +2,7 @@
 
 Easily embed and share Github gists on your WordPress blog
 
-##Usage:
+## Usage:
 
 Paste a gist link into a blog post or page and it will be embedded eg:
 
