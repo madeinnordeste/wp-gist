@@ -16,3 +16,6 @@ Original Post:
 
 * http://interconnectit.com/3920/embed-all-the-gists/
 * http://www.wprecipes.com/easily-embed-and-share-github-gists-on-your-wordpress-blog/
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/madeinnordeste/wp-gist/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
